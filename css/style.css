@@ -142,6 +142,10 @@ ul {
 	list-style: none;
 }
 
+.sf-menu {
+	padding: 7px;
+	margin: 7px;
+}
 
 
 
@@ -595,7 +599,7 @@ a.donate:hover {
     font-size: 14px;
 }
 
- 
+
 
 .map figure {
     position: relative;
@@ -841,7 +845,7 @@ footer {
     display: block;
     float: left;
     float: right;
-    
+
     width: 0px;
     height: 0px;
     border-style: solid;
@@ -884,7 +888,7 @@ footer {
 }
 
 .bl1 .blog {
-    margin-bottom: 0;    
+    margin-bottom: 0;
 }
 
  .map address {
